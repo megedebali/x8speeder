@@ -13,6 +13,7 @@ Contents
 .. toctree::
 
    Home <self>
+   geo/chicago
    help/account
    help/post-ad
    help/guidelines
