@@ -15,3 +15,4 @@ Contents
    Home <self>
    help/account
    help/post-ad
+   help/guidelines
