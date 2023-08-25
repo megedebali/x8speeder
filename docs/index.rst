@@ -9,8 +9,8 @@ Welcome to Craigslist documentation!
 
 Contents
 --------
-
 .. toctree::
+   :maxdepth: 1
 
    Home <self>
    geo/chicago
